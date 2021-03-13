@@ -1,6 +1,6 @@
 # Nexter - By Jon D Jones 💥
 
-A SASS based website:
+Estate agency themes SASS website:
 
 **Live Site**: [https://nexter-poc.netlify.app/](https://nexter-poc.netlify.app/)
 
